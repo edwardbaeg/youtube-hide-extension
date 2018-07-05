@@ -1,1 +1,1 @@
-window.YOUTUBE_API_KEY = 'AIzaSyALOlT5zF291f8QLMllbo_WR76yTmqmsjI';
+window.YT_API_KEY = 'AIzaSyALOlT5zF291f8QLMllbo_WR76yTmqmsjI';

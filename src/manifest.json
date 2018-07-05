@@ -6,6 +6,6 @@
     "matches": [
       "*://www.youtube.com/*"
     ],
-    "js": ["lib/jquery-3.3.1.min.js", "main.js"]
+    "js": ["lib/jquery-3.3.1.min.js", "main.js", "config.js"]
   }]
 }
